@@ -36,5 +36,6 @@ export default async function ProfilePage({ params }: any) {
                 <a href="/">Go Back Home</a>
             </div>
         );
+       
     }
 }
